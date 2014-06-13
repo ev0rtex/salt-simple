@@ -18,5 +18,5 @@ Then just remember to accept the minion keys on the master:
 
 ```sh
 vagrant ssh master
-# salt-key -A
+salt-key -A
 ```
