@@ -1,5 +1,14 @@
 ## Getting started
 
+### Install the requisites
+
+| Package    | Download URL                              |
+|------------|-------------------------------------------|
+| VirtualBox | https://www.virtualbox.org/wiki/Downloads |
+| Vagrant    | http://www.vagrantup.com/downloads.html   |
+
+### Start and run the VM's
+
 You can start each of the VM's individually like this:
 
 ```sh
